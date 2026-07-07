@@ -1,0 +1,7 @@
+u8g2-tock.c:48:16:u8x8_d_ssd1306_tock	32	static
+u8g2-tock.c:77:5:u8g2_tock_init	16	static
+u8g2-tock.c:105:6:u8g2_ClearBuffer	0	static
+u8g2-tock.c:110:6:u8g2_SendBuffer	16	static
+u8g2-tock.c:123:6:u8g2_SetBufferCurrTileRow	16	static
+u8g2-tock.c:130:6:u8g2_FirstPage	16	static
+u8g2-tock.c:139:9:u8g2_NextPage	32	static

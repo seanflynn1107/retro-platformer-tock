@@ -1,0 +1,9 @@
+display.c:11:6:display_init	8	static
+display.c:15:6:obstacle_init	8	static
+display.c:24:6:platform_init	12	static
+display.c:33:6:coin_init	8	static
+display.c:41:6:draw_player	32	static
+display.c:51:6:draw_obstacle	24	static
+display.c:71:6:draw_platform	24	static
+display.c:91:6:draw_coin	24	static
+display.c:113:6:draw_frame	40	static

@@ -1,0 +1,4 @@
+input.c:5:6:input_init	32	static
+input.c:13:6:jump_pressed	32	static
+input.c:19:6:right_pressed	32	static
+input.c:25:6:left_pressed	32	static
